@@ -1,0 +1,192 @@
+vCard - Personal Portfolio
+
+sidebar
+
+alt = Vivek Rai
+Vivek Rai
+Web Developer & Tech Enthusiast
+
+Show Contacts
+
+Email
+vivekrai2416@gmail.com
+
+Phone
++91 9354632327
+
+Birthday
+[Your Birthday]
+
+Location
+Noida, India
+
+navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+about
+
+About me
+
+I'm a passionate Web Developer and Tech Explorer from Noida, India, specializing in web development, backend technologies, and AI integration. I enjoy solving complex problems and turning ideas into functional, user-friendly digital solutions.
+
+My goal is to build impactful products that enhance user experience and drive innovation. Whether it’s a website, an AI-powered chatbot, or a community platform, I ensure every project is optimized, secure, and scalable. I have worked on multiple tech projects, including mental health platforms and ride-sharing solutions.
+
+service
+
+What I'm doing
+
+alt = design icon
+Web design
+Crafting modern and high-quality designs with a user-centered approach.
+
+alt = Web development icon
+Web development
+Building scalable and efficient web applications with cutting-edge technologies.
+
+alt = AI & ML icon
+AI & ML Integration
+Integrating AI solutions for automation, chatbots, and enhanced user engagement.
+
+alt = Research icon
+Tech Research & Innovation
+Exploring emerging technologies and contributing to the tech community.
+
+testimonials
+
+Testimonials
+
+alt = Ansh Singh
+Ansh Singh
+Vivek is a dedicated tech enthusiast and an incredible team player. His problem-solving skills and ability to develop efficient solutions have helped our projects tremendously.
+
+alt = Nriti Shukla
+Nriti Shukla
+Vivek is an innovative thinker who always brings fresh ideas to the table. His technical expertise and leadership make him a great asset to any tech-driven initiative.
+
+alt = Yuvraj Mishra
+Yuvraj Mishra
+Vivek's approach to technology and development is truly inspiring. He ensures every project is well-executed and delivers top-notch results.
+
+clients
+
+Clients
+
+alt = client logo
+
+resume
+
+Resume
+
+Education
+
+Dronacharya Group of Institutions
+2023 — Present
+Pursuing B.Tech in Computer Science & Engineering. Active participant in hackathons, research, and development projects.
+
+Experience
+
+Design Lead
+2024 — Present
+StarkSeek India
+Leading the design team and ensuring seamless UI/UX experiences.
+
+Organizer Team Member
+2024 — Present
+HackArCode
+Contributing to organizing tech events and hackathons.
+
+Internshala Student Partner
+2024 — Present
+Internshala
+Promoting online learning and internship opportunities.
+
+PW Campus Ambassador
+2023 — Present
+Dronacharya Group of Institutions
+Building a bridge between students and educational resources.
+
+My skills
+
+Web Development
+90%
+AI & ML
+75%
+Backend Development
+85%
+Leadership & Communication
+95%
+
+portfolio
+
+Portfolio
+
+All
+Web development
+AI Projects
+Community Platforms
+
+Select category
+All
+Web development
+AI Projects
+Community Platforms
+
+alt = Save Youths
+Save Youths
+Mental health support platform
+
+alt = Ride Together
+Ride Together
+AI-powered ridesharing & travel app
+
+alt = Deep Fake Detection
+Deep Fake Detection
+AI-based project to identify fake media
+
+alt = Community Events Finder
+Community Events Finder
+Discover and manage local community events
+
+alt = Influencer Connect
+Influencer Connect
+Platform to connect influencers with users
+
+blog
+
+Blog
+
+alt = Future of AI in Web Development
+AI & Tech
+March 2025
+The Future of AI in Web Development
+Exploring how AI is shaping the next-gen digital experiences.
+
+alt = Mastering Backend Development
+Web Development
+March 2025
+Mastering Backend Development
+Key concepts, tools, and frameworks for scalable applications.
+
+alt = Why Hackathons Matter
+Tech Events
+March 2025
+Why Hackathons Matter
+How participating in hackathons boosts your skills and network.
+
+contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
+
